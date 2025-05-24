@@ -44,17 +44,18 @@ Here are some ideas to get you started:
 ## 📚 Formación Académica
 **Licenciatura en Informática**  
 *En curso* - Especialización en Redes Informáticas  
+<!--
 *(Incluir universidad y año de inicio si deseas)*
-
+-->
 ---
 
 ## 🌱 Actualmente aprendiendo
 - Virtualización avanzada con Proxmox
 - Automatización de redes
-- Desarrollo web full-stack (Python + JavaScript)
+- Desarrollo web full-stack (Python + JavaScript + HTML + CSS + MySQL Node.js + React.js)
 
 ---
-
+<!--
 ## 🚀 Proyectos Recientes
 *(¿Deseas agregar 2-3 proyectos con estos elementos?)*
 ```markdown
@@ -62,3 +63,4 @@ Here are some ideas to get you started:
 Breve descripción del objetivo y tecnologías usadas  
 **Stack:** Python + Bootstrap + [Otras herramientas]  
 **Logro:** [Ej: "Implementé X funcionalidad usando Y tecnología"]
+-->
